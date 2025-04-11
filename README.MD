@@ -18,7 +18,8 @@ This project demonstrates advanced technical modeling with real-world policy imp
 - **Data anomaly recognition** using statistical outlier detection
 
 ## Sample plot
-![PCA Clusters](images\pca.png)
+![PCA Clusters](images/pca.png)
+---
 
 ## 📁 Project Structure
 
